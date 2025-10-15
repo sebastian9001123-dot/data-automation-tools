@@ -24,8 +24,4 @@ Gracias a esta automatización, se logra una **reducción del 45 % en el tiempo 
 2. El script permite elegir los membretes y logotipos que se insertarán automáticamente.  
 3. El sistema genera el documento final combinando todos los elementos con el formato corporativo correcto.
 
----
 
-## 💡 Ejemplo de uso
-```bash
-python generador_manuales.py

@@ -2,7 +2,7 @@
 
 Este módulo contiene un conjunto de funciones automatizadas creadas en **Google Apps Script (JavaScript)** para filtrar datos por barrios de diferentes ciudades y consolidarlos en un archivo de destino.
 
-Cada archivo "Funcion" corresponde a una ciudad y puede ejecutarse individualmente desde Google Apps Script.
+Cada archivo **Funcion** corresponde a una ciudad y puede ejecutarse individualmente desde Google Apps Script.
 
 ---
 

@@ -1,5 +1,6 @@
 # 🧮 Consolidador de Datos Excel
 
+
 ### 📌 Descripción
 Herramienta desarrollada en **Python** para automatizar la **lectura y consolidación de grandes volúmenes de datos** distribuidos en múltiples archivos Excel.
 

@@ -36,12 +36,6 @@ El programa solicitará la carpeta donde se encuentran los archivos Excel y gene
 Esta herramienta reduce los tiempos de generación de reportes masivos y elimina errores humanos al sumar manualmente datos de diferentes hojas.
 Especialmente útil para áreas de reportes, control de calidad, o análisis de datos.
 
-📌 Autor: Sebastián
-🔗 GitHub - SebastianR-Data
-
-yaml
-Copiar código
-
 ---
 
 5. Luego, baja y en **“Mensaje de confirmación”**, escribe:

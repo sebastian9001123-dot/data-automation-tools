@@ -35,3 +35,7 @@ De esta forma, el sistema trabaja únicamente con información validada y estruc
 - ... (y otras)
 
 ---
+# 🔐 Nota sobre la seguridad de los datos
+
+Los identificadores (ID) de los archivos en Google Drive permanecen visibles en el código, ya que pertenecen a un entorno corporativo con acceso restringido exclusivamente a usuarios internos del dominio.
+No es posible acceder a estos archivos desde fuera de la organización, garantizando la confidencialidad y seguridad de la información procesada.
